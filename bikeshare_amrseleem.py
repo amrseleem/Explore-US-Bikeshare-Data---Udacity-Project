@@ -1,14 +1,3 @@
-#Dear Reviewer, 
-#Many thanks for your abstract, neat, and clear feedback. I have incroporated and addressed your three main remarks.
-#Thanks for the head up! Really helpful, so hopefully code should be now ready. 
-#All the best,
-#Amr
-
-#Dear Reviewer,
-#Thank you for your time to review my code. In this code, I have developed based on my teh udacity material and help of the discussions https://nfpdiscussions.udacity.com/t/first-projects-webinar-recap/58655/25. 
-#Kind regards,
-#Amr
-
 import time
 import pandas as pd
 import numpy as np
